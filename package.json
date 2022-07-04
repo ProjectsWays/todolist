@@ -1,5 +1,5 @@
 {
-  "description": "SCSJ3623 Mobile Application Programming\r Semester 2, 2020/2021",
+  "description": "Assignment 2",
   "scripts": {
     "server": "json-server --host 192.168.1.11 db.json"
   },
