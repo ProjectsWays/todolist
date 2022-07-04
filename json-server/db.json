@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alexander Holmes",
+      "photoUrl": "https://randomuser.me/api/portraits/thumb/men/75.jpg",
+      "login": "alex",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Jessica Walters",
+      "photoUrl": "https://randomuser.me/api/portraits/thumb/women/75.jpg",
+      "login": "jessica",
+      "password": "123"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "user": 2,
+      "title": "Prepare project proposal",
+      "description": "To write a proposal for a new client company. Plan: using Flutter framework",
+      "done": true
+    },
+    {
+      "id": 2,
+      "user": 1,
+      "title": "Replace light bulb",
+      "description": "Buy the bulb from online. Prefer to buy a LED bulb",
+      "done": false
+    },
+    {
+      "id": 3,
+      "user": 2,
+      "title": "Buy Flutter eBooks",
+      "description": "1. Beginning App Development with Flutter by Rap Payne.  2. Beginning Flutter: A Hands on Guide to App Development by Marco L. Napoli",
+      "done": false
+    },
+    {
+      "title": "Hi",
+      "description": "Hello",
+      "done": true,
+      "id": 6,
+      "user": 1
+    }
+  ]
+}
