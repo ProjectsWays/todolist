@@ -2,16 +2,30 @@
   "users": [
     {
       "id": 1,
-      "name": "Alexander Holmes",
-      "photoUrl": "https://randomuser.me/api/portraits/thumb/men/75.jpg",
-      "login": "alex",
+      "name": "Sima Jazaa ",
+      "photoUrl": "https://i.pinimg.com/736x/05/78/47/057847973830f77bdbe9b1c53ca6e213.jpg",
+      "login": "sima",
       "password": "123"
     },
     {
       "id": 2,
-      "name": "Jessica Walters",
-      "photoUrl": "https://randomuser.me/api/portraits/thumb/women/75.jpg",
-      "login": "jessica",
+      "name": "Sana Jazaa",
+      "photoUrl": "https://i.pinimg.com/736x/05/78/47/057847973830f77bdbe9b1c53ca6e213.jpg",
+      "login": "sana",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "name": "Mohammed Raad ",
+      "photoUrl": "https://i.pinimg.com/736x/05/78/47/057847973830f77bdbe9b1c53ca6e213.jpg",
+      "login": "mohammed",
+      "password": "123"
+    },
+    {
+      "id": 4,
+      "name": "Sara Zuhair",
+      "photoUrl": "https://i.pinimg.com/736x/05/78/47/057847973830f77bdbe9b1c53ca6e213.jpg",
+      "login": "sara",
       "password": "123"
     }
   ],
